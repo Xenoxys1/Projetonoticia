@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(29, 29, 29);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#cabecalho {
+    width: 800px;
+    height: 200px;
+    margin: 5px auto;
+    background-color: black;
+    border: double violet 10px;
+}
+
+#cabecalho h1 {
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+#cabecalho img {
+    margin-left: 340px;
+    margin-top: 10px;
+    border: solid purple 1px;
+}
+
+#corpo {
+    width: 800px;
+    height: 950px;
+    background-color: black;
+    margin: 0px auto;
+    border: double violet 10px;
+}
+
+#corpo h2 {
+    text-align: center;
+    background-color: red;
+    color: black;
+    margin: 10px;
+}
+
+#corpo p {
+    text-align: justify;
+    text-indent: 10px;
+    font-size: 13pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#corpo img {
+    margin-left: 180px;
+    border: solid purple 5px;
+}
+
+#corpo #Astolfo {
+    margin-left: 230px;
+    border: solid purple 5px;
+}
+
+#rodape {
+    width: 800px;
+    height: 200px;
+    margin: 5px auto;
+    background-color: black;
+    border: double violet 10px;
+}
+
+#rodape h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#rodape img {
+    margin-left: 100px;
+    border: solid red 10px;
+}
+#form {
+    width: 800px;
+    height: 125px;
+    margin: 5px auto;
+    background-color: black;
+    border: double violet 10px;
+}
